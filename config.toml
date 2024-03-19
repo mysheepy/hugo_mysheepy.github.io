@@ -6,7 +6,7 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
-disqusShortname = "mysheepy"
+disqusShortname = "mysheepy-github-io"
 
 [markup.highlight]
 style = "github-dark"
@@ -56,7 +56,7 @@ style = "github-dark"
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "blog/"
+  url  = "posts/"
 [[menu.main]]
   name = "About"
   weight = 2
