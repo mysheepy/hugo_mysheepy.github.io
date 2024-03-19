@@ -1,5 +1,5 @@
 ---
-title: "1_first_testing_post"
+title: "Pthread Sample Code in C"
 date: 2024-03-18T17:16:30+08:00
 draft: false
 tags: ["c", "pthread", "example"]
