@@ -13,8 +13,8 @@ style = "github-dark"
 
 [params]
   author = "緜阳绵羊"
-  info = "MySheepy"
-  description = "John Doe's personal website"
+  info = "睡前必须玩一把游戏，不同意的请举手。没有……没有……没有……通过！"
+  description = "肥宅真的肥"
   keywords = "blog,personal"
   #avatarurl = "images/avatar.jpg"
   gravatar = "mysheepy@outlook.jp"
@@ -49,15 +49,15 @@ style = "github-dark"
 [[params.social]]
   name = "Twitter"
   icon = "fa-brands fa-x-twitter fa-2x"
-  weight = 3
+  weight = 2
   url = "https://twitter.com/mysheepy/"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "博客"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "关於"
   weight = 2
   url = "about/"
